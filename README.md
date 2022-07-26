@@ -19,10 +19,7 @@
 - React/Next.js (2018 ~ 현업 개발자) + Tailwind CSS / Chakra UI / Framer motion
 - Vue/Nuxt.js/Vite (2020 ~ 현업 개발자)
 - Typescript (2020 ~ 공부중)
-- Flutter (2020 ~ 공부중)
 - Swift (2020 ~ 공부중)
-- Svelte (2021 ~ 공부중)
-   
    
 ## 초심을 잃지 말자.
 2008년, 어렵게 구한 게임 프리서버 구동 파일을 분석해보고 싶어, 호기심 가득한 마음으로 자바를 접하고   
